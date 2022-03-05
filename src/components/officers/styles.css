@@ -1,0 +1,55 @@
+.politician {
+  width: 100%;
+  position: relative;
+  border: 1px solid #cecece;
+  padding: 2.25rem 1rem 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 10px;
+}
+
+.title {
+  position: absolute;
+  height: 2.5rem;
+  top: -1.25rem;
+  margin: 0;
+  padding: 0 1rem;
+  border: 1px solid #C90F0C;
+  display: flex;
+  align-items: center;
+  background-color: #000;
+  color: #fff;
+  border-radius: 6px;
+}
+
+.title h2 {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.politician p, .politician a {
+  margin: .7rem 0;
+  display: flex;
+  align-items: center;
+}
+
+.politician a {
+  cursor: pointer;
+  color: inherit;
+  text-decoration: none;
+}
+
+.politician span, .politician span {
+  color: rgb(105, 105, 105);
+}
+
+.politician a:hover {
+  color: #c40000;
+}
+
+.politician i {
+  width: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #c40000;
+}

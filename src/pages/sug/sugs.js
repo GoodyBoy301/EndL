@@ -1,0 +1,73 @@
+export default [
+  {
+    "id": "0",
+    "name": "Odo Abuchi Michael",
+    "department": "PALG",
+    "office": "President",
+    "email": "",
+  },
+  {
+    "id": "1",
+    "name": "Kenneth Victory Chioma",
+    "department": "Mathematics",
+    "office": "Vice President",
+    "email": "",
+  },
+  {
+    "id": "2",
+    "name": "Chibueze Santos",
+    "department": "Social Science Ed.",
+    "office": "Secretary General",
+    "email": "",
+  },
+  {
+    "id": "3",
+    "name": "Eze Festus",
+    "department": "Zoology",
+    "office": "Financial Secretary",
+    "email": "",
+  },
+  {
+    "id": "4",
+    "name": "Ede Charity Ijeoma",
+    "department": "Biochemistry",
+    "office": "Treasurer",
+    "email": "",
+  },
+  {
+    "id": "5",
+    "name": "Offor Chibuike Emmanuel",
+    "department": "",
+    "office": "Director of Games",
+    "email": "",
+  },
+  {
+    "id": "6",
+    "name": "Samuel Nduchem",
+    "department": "",
+    "office": "Director of Transportation",
+    "email": "",
+  },
+  {
+    "id": "7",
+    "name": "Odi Lucky Nnamdi",
+    "department": "Computer Science",
+    "office": "Director of Welfare",
+    "email": "",
+  },
+  {
+    "id": "8",
+    "name": "Emmanuel Emmanuella Ebubechukwu",
+    "department": "",
+    "office": "Assistant Secretary General",
+    "email": "",
+  },
+  {
+    "id": "",
+    "name": "",
+    "department": "",
+    "office": "",
+    "email": "",
+  },
+
+    ]
