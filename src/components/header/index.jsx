@@ -11,7 +11,7 @@ function Header( {transparent} ) {
       </div>
 
       <div className="devCorner">
-        <a href="https://github.com/goodyboy301/undefined" target='_blank' rel='noreferrer noopener'><i className='fab fa-github'></i></a>
+        <a href="https://github.com/goodyboy301/endl" target='_blank' rel='noreferrer noopener'><i className='fab fa-github'></i></a>
       </div>
     </header>
   )
